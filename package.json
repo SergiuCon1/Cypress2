@@ -1,0 +1,15 @@
+{
+  "name": "cypress2homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress-dushboard": "npx cypress run --record --key d0126070-0431-4822-97eb-afd8ebaceede"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.0.1"
+  }
+}

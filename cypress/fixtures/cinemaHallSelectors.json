@@ -1,0 +1,10 @@
+{
+    "daysOfWeek": ".page-nav__day",
+    "movies": ".movie",
+    "movieTitle": ".movie__title",
+    "movieSynopsis": ".movie__synopsis",
+    "movieTimeDuration": ".movie__data-duration",
+    "movieDataOrigin": ".movie__data-origin",
+    "movieSeance": "[data-seance-id='129']",
+    "acceptionButton": "[class='acceptin-button']"
+}

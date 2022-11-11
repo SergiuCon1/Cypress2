@@ -1,0 +1,6 @@
+{
+    "loginSelector": "[type='email']",
+    "passwordSelector": "[type='password']",
+    "submitButtonSelector": ".login__button",
+    "configurationsSelector": ".conf-step"
+}
