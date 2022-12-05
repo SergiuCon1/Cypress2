@@ -6,5 +6,6 @@
     "movieTimeDuration": ".movie__data-duration",
     "movieDataOrigin": ".movie__data-origin",
     "movieSeance": "[data-seance-id='129']",
-    "acceptionButton": "[class='acceptin-button']"
+    "acceptionButton": "[class='acceptin-button']",
+    "freeSlots": "[class='buying-scheme__chair buying-scheme__chair_standart']:not(buying-scheme__chair_taken)"
 }
